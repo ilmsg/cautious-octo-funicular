@@ -1,4 +1,4 @@
-module github.com/ilmsg/cautious-octo-funicular/jumbotrons
+module github.com/ilmsg/cautious-octo-funicular/jumbotron
 
 go 1.25.3
 
