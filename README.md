@@ -2,45 +2,44 @@
 
 bootstrap 5.3.8 - examples with golang
 
-- [ ] album
-- [ ] album-rtl
-- [ ] assets
-- [ ] badges
-- [ ] blog
-- [ ] blog-rtl
-- [ ] breadcrumbs
-- [ ] buttons
-- [ ] carousel
-- [ ] carousel-rtl
-- [ ] cheatsheet
-- [ ] cheatsheet-rtl
-- [ ] checkout
-- [ ] checkout-rtl
-- [ ] cover
-- [ ] dashboard
-- [ ] dashboard-rtl
-- [ ] dropdowns
-- [ ] features
-- [ ] footers
-- [ ] grid
-- [ ] headers
-- [ ] heroes
-- [ ] jumbotron
-- [ ] jumbotrons
-- [ ] list-groups
-- [ ] masonry
-- [ ] modals
-- [ ] navbar-bottom
-- [ ] navbar-fixed
-- [ ] navbar-static
-- [ ] navbars
-- [ ] navbars-offcanvas
-- [ ] offcanvas
-- [ ] offcanvas-navbar
-- [ ] pricing
-- [ ] product
-- [ ] sidebars
-- [ ] sign-in
-- [ ] starter-template
+- [x] album
+- [x] album-rtl
+- [x] badges
+- [x] blog
+- [x] blog-rtl
+- [x] breadcrumbs
+- [x] buttons
+- [x] carousel
+- [x] carousel-rtl
+- [x] cheatsheet
+- [x] cheatsheet-rtl
+- [x] checkout
+- [x] checkout-rtl
+- [x] cover
+- [x] dashboard
+- [x] dashboard-rtl
+- [x] dropdowns
+- [x] features
+- [x] footers
+- [x] grid
+- [x] headers
+- [x] heroes
+- [x] jumbotron
+- [x] jumbotrons
+- [x] list-groups
+- [x] masonry
+- [x] modals
+- [x] navbar-bottom
+- [x] navbar-fixed
+- [x] navbar-static
+- [x] navbars
+- [x] navbars-offcanvas
+- [x] offcanvas
+- [x] offcanvas-navbar
+- [x] pricing
+- [x] product
+- [x] sidebars
+- [x] sign-in
+- [x] starter-template
 - [x] sticky-footer
 - [x] sticky-footer-navbar
