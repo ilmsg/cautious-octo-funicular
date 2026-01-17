@@ -43,4 +43,4 @@ bootstrap 5.3.8 - examples with golang
 - [ ] sign-in
 - [ ] starter-template
 - [x] sticky-footer
-- [ ] sticky-footer-navbar
+- [x] sticky-footer-navbar
